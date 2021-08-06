@@ -1,0 +1,35 @@
+<Config>
+ <TimeZone>Eastern Standard Time</TimeZone>
+ <RemoveApps>
+    <App>Microsoft.GetHelp</App>
+    <App>Microsoft.Getstarted</App>
+    <App>Microsoft.Microsoft3DViewer</App>
+    <App>Microsoft.MicrosoftOfficeHub</App>
+    <App>Microsoft.MicrosoftSolitaireCollection</App>
+    <App>Microsoft.MixedReality.Portal</App>
+    <App>Microsoft.Office.OneNote</App>
+    <App>Microsoft.People</App>
+    <App>Microsoft.SkypeApp</App>
+    <App>Microsoft.Wallet</App>
+    <App>microsoft.windowscommunicationsapps</App>
+    <App>Microsoft.WindowsFeedbackHub</App>
+    <App>Microsoft.WindowsSoundRecorder</App>
+    <App>Microsoft.Xbox.TCUI</App>
+    <App>Microsoft.XboxApp</App>
+    <App>Microsoft.XboxGameOverlay</App>
+    <App>Microsoft.XboxGamingOverlay</App>
+    <App>Microsoft.XboxIdentityProvider</App>
+    <App>Microsoft.XboxSpeechToTextOverlay</App>
+    <App>Microsoft.YourPhone</App>
+    <App>Microsoft.ZuneMusic</App>
+ </RemoveApps>
+ <DisableServices>
+    <Service>cscservice</Service>
+ </DisableServices>
+ <AddFeatures>
+   <Feature>NetFX3~~~~</Feature>
+ </AddFeatures>
+ <DefaultApps>Associations.xml</DefaultApps>
+ <RegisteredOwner>Team Member</RegisteredOwner>
+ <RegisteredOrganization>Michigan First</RegisteredOrganization>
+</Config>
